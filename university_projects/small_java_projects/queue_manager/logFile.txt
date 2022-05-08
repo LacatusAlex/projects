@@ -1,0 +1,94 @@
+Time: 0
+ Waiting clients: (5,1,4)(6,1,5)(2,2,5)(3,2,3)(4,2,5)(7,2,4)(8,2,4)(9,2,6)(1,3,4)(10,3,6)
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Time: 1
+ Waiting clients: (2,2,5)(3,2,3)(4,2,5)(7,2,4)(8,2,4)(9,2,6)(1,3,4)(10,3,6)
+Queue 1: (5,1,4)
+Queue 2: (6,1,5)
+Queue 3: 
+Time: 2
+ Waiting clients: (1,3,4)(10,3,6)
+Queue 1: (5,1,4)(3,2,3)(8,2,4)
+Queue 2: (6,1,5)(4,2,5)
+Queue 3: (2,2,5)(7,2,4)(9,2,6)
+Time: 3
+ Waiting clients: 
+Queue 1: (5,1,4)(3,2,3)(8,2,4)(10,3,6)
+Queue 2: (6,1,5)(4,2,5)(1,3,4)
+Queue 3: (2,2,5)(7,2,4)(9,2,6)
+Time: 4
+ Waiting clients: 
+Queue 1: (5,1,4)(3,2,3)(8,2,4)(10,3,6)
+Queue 2: (6,1,5)(4,2,5)(1,3,4)
+Queue 3: (2,2,5)(7,2,4)(9,2,6)
+Time: 5
+ Waiting clients: 
+Queue 1: (3,2,3)(8,2,4)(10,3,6)
+Queue 2: (6,1,5)(4,2,5)(1,3,4)
+Queue 3: (2,2,5)(7,2,4)(9,2,6)
+Time: 6
+ Waiting clients: 
+Queue 1: (3,2,3)(8,2,4)(10,3,6)
+Queue 2: (4,2,5)(1,3,4)
+Queue 3: (2,2,5)(7,2,4)(9,2,6)
+Time: 7
+ Waiting clients: 
+Queue 1: (3,2,3)(8,2,4)(10,3,6)
+Queue 2: (4,2,5)(1,3,4)
+Queue 3: (7,2,4)(9,2,6)
+Time: 8
+ Waiting clients: 
+Queue 1: (8,2,4)(10,3,6)
+Queue 2: (4,2,5)(1,3,4)
+Queue 3: (7,2,4)(9,2,6)
+Time: 9
+ Waiting clients: 
+Queue 1: (8,2,4)(10,3,6)
+Queue 2: (4,2,5)(1,3,4)
+Queue 3: (7,2,4)(9,2,6)
+Time: 10
+ Waiting clients: 
+Queue 1: (8,2,4)(10,3,6)
+Queue 2: (4,2,5)(1,3,4)
+Queue 3: (7,2,4)(9,2,6)
+Time: 11
+ Waiting clients: 
+Queue 1: (8,2,4)(10,3,6)
+Queue 2: (1,3,4)
+Queue 3: (9,2,6)
+Time: 12
+ Waiting clients: 
+Queue 1: (10,3,6)
+Queue 2: (1,3,4)
+Queue 3: (9,2,6)
+Time: 13
+ Waiting clients: 
+Queue 1: (10,3,6)
+Queue 2: (1,3,4)
+Queue 3: (9,2,6)
+Time: 14
+ Waiting clients: 
+Queue 1: (10,3,6)
+Queue 2: (1,3,4)
+Queue 3: (9,2,6)
+Time: 15
+ Waiting clients: 
+Queue 1: (10,3,6)
+Queue 2: 
+Queue 3: (9,2,6)
+Time: 16
+ Waiting clients: 
+Queue 1: (10,3,6)
+Queue 2: 
+Queue 3: (9,2,6)
+Time: 17
+ Waiting clients: 
+Queue 1: (10,3,6)
+Queue 2: 
+Queue 3: 
+Statistics: 
+Average waiting time: 5.1
+Average service time: 4.6
+Peak time: 3 with 10 clients in the queues

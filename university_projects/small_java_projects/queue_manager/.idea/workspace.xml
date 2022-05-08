@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb65220b-82a2-4689-9a91-b534062e71a2" name="Changes" comment="PT2022_30423_Lacatus_Alex_Assignment_2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="26YnvLWTwbmTebq3CTx5n0UG4DY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+      <module name="PT2022_30423_Lacatus_Alex_Assignment_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb65220b-82a2-4689-9a91-b534062e71a2" name="Changes" comment="" />
+      <created>1647609618920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647609618920</updated>
+      <workItem from="1647609620241" duration="37000" />
+      <workItem from="1647609704463" duration="720000" />
+      <workItem from="1648209846289" duration="5675000" />
+      <workItem from="1648234517093" duration="862000" />
+      <workItem from="1648290932515" duration="1708000" />
+      <workItem from="1648378682948" duration="5997000" />
+      <workItem from="1648645406010" duration="11359000" />
+      <workItem from="1648709337320" duration="5767000" />
+      <workItem from="1648721440934" duration="3634000" />
+      <workItem from="1648725229112" duration="1521000" />
+      <workItem from="1648739568050" duration="9153000" />
+      <workItem from="1648754033956" duration="801000" />
+      <workItem from="1648809735266" duration="84000" />
+      <workItem from="1648810809002" duration="958000" />
+      <workItem from="1648812608162" duration="3101000" />
+      <workItem from="1648989809832" duration="674000" />
+      <workItem from="1650553623985" duration="619000" />
+      <workItem from="1650612925294" duration="48000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit1">
+      <created>1647609770067</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647609770067</updated>
+    </task>
+    <task id="LOCAL-00002" summary="PT2022_30423_Lacatus_Alex_Assignment_2">
+      <created>1648753564391</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648753564391</updated>
+    </task>
+    <task id="LOCAL-00003" summary="PT2022_30423_Lacatus_Alex_Assignment_2">
+      <created>1648754096923</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648754096923</updated>
+    </task>
+    <task id="LOCAL-00004" summary="PT2022_30423_Lacatus_Alex_Assignment_2">
+      <created>1648754564355</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648754564355</updated>
+    </task>
+    <task id="LOCAL-00005" summary="PT2022_30423_Lacatus_Alex_Assignment_2">
+      <created>1648815902624</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648815902624</updated>
+    </task>
+    <task id="LOCAL-00006" summary="PT2022_30423_Lacatus_Alex_Assignment_2">
+      <created>1648815923485</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1648815923485</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit1" />
+    <MESSAGE value="PT2022_30423_Lacatus_Alex_Assignment_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="PT2022_30423_Lacatus_Alex_Assignment_2" />
+  </component>
+</project>
