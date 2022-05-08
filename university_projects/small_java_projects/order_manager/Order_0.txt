@@ -1,0 +1,1 @@
+Order [id=0, client=el, product=sare, date=10/10/10, quantity=3]total price=6

@@ -1,0 +1,7 @@
+org.example
+org.example.connection
+org.example.data.access
+org.example.logic
+org.example.logic.validator
+org.example.model
+org.example.presentation
