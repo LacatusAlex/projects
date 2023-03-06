@@ -1,0 +1,16 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 19.04.2011 15:26:07
+
+newmtl A004_Water_Tower_SG_V1
+	Ns 20.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.1440 0.1440 0.1440
+	Ke 0.0000 0.0000 0.0000
+	map_Ka 10092_WaterTower_SG_V1_Diffuse.jpg
+	map_Kd 10092_WaterTower_SG_V1_Diffuse.jpg
