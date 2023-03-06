@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Administrator\Desktop\fac22-23\gp\project\project\main.cpp(404,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Administrator\Desktop\fac22-23\gp\project\project\main.cpp(557): warning C4715: 'initCubeBox': not all control paths return a value
+  project.vcxproj -> C:\Users\Administrator\Desktop\fac22-23\gp\project\x64\Debug\project.exe
